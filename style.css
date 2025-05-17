@@ -1,0 +1,21 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 60px auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: fit-content;
+
+}
+
+h1, h2 {
+    color: navy;
+}
+
+li {
+    padding: 10px;
+    font-style: italic;
+    font-weight: 800;
+    color: grey;
+    max-width: 600px;
+}
